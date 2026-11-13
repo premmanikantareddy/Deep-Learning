@@ -1,7 +1,0 @@
-[
-  "tests/test_pipeline.py::test_bounding_box_schema",
-  "tests/test_pipeline.py::test_image_preprocessing",
-  "tests/test_pipeline.py::test_iso_6346_invalid_checksum",
-  "tests/test_pipeline.py::test_iso_6346_valid_checksum",
-  "tests/test_pipeline.py::test_tensorrt_engine_builder_simulation"
-]
